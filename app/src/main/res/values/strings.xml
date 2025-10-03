@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_courses">Courses</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_goals">Goals</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dashboard_welcome">Welcome to Student Time Management App!</string>
+    <string name="dashboard_description">This is your dashboard where you can:</string>
+    <string name="dashboard_feature1">• View today\'s tasks</string>
+    <string name="dashboard_feature2">• Check study progress</string>
+    <string name="dashboard_feature3">• Manage your schedule</string>
+    <string name="courses_title">Course Management</string>
+    <string name="courses_description">• Add new courses\n• View course list\n• Manage course schedule\n• Track learning progress</string>
+    <string name="tasks_title">Task Management</string>
+    <string name="tasks_description">• Create new tasks\n• Set task priorities\n• Track task progress\n• Complete task reminders</string>
+    <string name="calendar_title">Calendar View</string>
+    <string name="calendar_description">• View your schedule\n• Add new events\n• Manage your timetable\n• Set reminders</string>
+    <string name="goals_title">Goal Management</string>
+    <string name="goals_description">• Set learning goals\n• Track goal progress\n• Celebrate achievements\n• Adjust goal plans</string>
+</resources>
+
